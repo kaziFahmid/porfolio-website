@@ -1,0 +1,32 @@
+[
+    {
+        "projectName":"SummerCamp",
+        "projectPicture":"https://i.ibb.co/Pm9cZQC/Vite-React.png",
+        "projectLink":"https://summer-camp-335b6.web.app/",
+        "clientCode":"https://github.com/kaziFahmid/summer-camp-client",
+        "serverCode":"https://github.com/kaziFahmid/summer-camp-server",
+        "features":"Users are allowed to create profile and also user can login.Admin can make users instructor or admin.Instructor can add class and delete his class."
+        
+
+    },
+
+    {
+        "projectName":"Fun Toys",
+        "projectPicture":"https://i.ibb.co/vcsx73Q/Fun-Toys-Home.png",
+        "projectLink":"https://toy-project-f359d.web.app/",
+        "clientCode":"https://github.com/kaziFahmid/toy-marketplace",
+        "serverCode":"https://github.com/kaziFahmid/toy-server",
+        "features":"Users are allowed to create profile and also user can login.Users can add toys and also update toys information.Users can search toys by filtering."
+    },
+
+    {
+        "projectName":"Job Nexus",
+        "projectPicture":"https://i.ibb.co/rpBzmsT/Job.png",
+        "projectLink":"https://job-project-fc795.web.app/",
+        "clientCode":"https://github.com/kaziFahmid/Job-finding-platform",
+        "serverCode":"https://github.com/kaziFahmid/job-finding-server",
+        "features":"Users are allowed to create profile and also user can login.Users can apply and post job. Users can search jobs by filtering."
+
+    }
+    
+]
