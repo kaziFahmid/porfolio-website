@@ -49,7 +49,7 @@ export default function Projects() {
             WebkitTextFillColor: 'transparent',
           }}
           className="fw-bold display-3"
-          data-aos="fade-down"
+
         >
           My Projects
         </h1>

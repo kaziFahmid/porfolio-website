@@ -55,7 +55,7 @@ export default function Skills() {
             WebkitBackgroundClip: 'text',
             WebkitTextFillColor: 'transparent',
            
-          }}  > Tools</h1>
+          }}   > Tools</h1>
         </div>
        
 

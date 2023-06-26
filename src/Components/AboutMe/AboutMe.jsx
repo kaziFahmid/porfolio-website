@@ -1,16 +1,11 @@
 import React from 'react'
 import Lottie from 'react-lottie';
 import data from './lottie.json'
-import AOS from 'aos';
-import 'aos/dist/aos.css';
+
+
 export default function AboutMe() {
 
-  AOS.init({
-    offset: 200,
-    duration: 600,
-    easing: 'ease-in-sine',
-    delay: 100,
-  });
+
 
   const defaultOptions = {
     loop: true,
@@ -30,13 +25,13 @@ export default function AboutMe() {
       
      <div className='container'>
 
-     <div className='row justify-content-center align-items-center'>
-     <div data-aos="fade-right"className='col-12 col-md-6'>
-      <Lottie options={defaultOptions}
+     <div className= 'row justify-content-center align-items-center' >
+     <div    className='col-12 col-md-6' >
+      <Lottie  options={defaultOptions}
               
              />
       </div>
-      <div className='text-white col-12 col-md-6' data-aos="fade-left">
+      <div className='text-white col-12 col-md-6'>
         <h1 className='fw-bold' style={{
             backgroundImage: 'linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%)',
             WebkitBackgroundClip: 'text',

@@ -1,16 +1,9 @@
 import React from 'react'
 import { GrMail } from 'react-icons/gr';
 import { BsFillTelephoneFill } from 'react-icons/bs';
-import AOS from 'aos';
-import 'aos/dist/aos.css';
-export default function Contactus() {
-  AOS.init({
-    offset: 200,
-    duration: 600,
-    easing: 'ease-in-sine',
-    delay: 100,
-  });
 
+export default function Contactus() {
+  
   return (
    <div className='bg-dark pt-5  mt-5' id='contactme'>
 
@@ -32,7 +25,7 @@ export default function Contactus() {
             <li className='text-white list-group-item mt-2  d-flex  justify-content-start align-items-center gap-3 '><BsFillTelephoneFill/>01787939177</li>
           </ul>
     </div>
-    <div className='col-12 col-md-6' data-aos="fade-down-left">
+    <div className='col-12 col-md-6' >
         
        <form className='mt-5'>
     <div>
