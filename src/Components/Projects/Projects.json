@@ -27,6 +27,16 @@
         "serverCode":"https://github.com/kaziFahmid/job-finding-server",
         "features":"Users are allowed to create profile and also user can login.Users can apply and post job. Users can search jobs by filtering."
 
+    },
+
+    {
+        "projectName":"CleanBuzz",
+        "projectPicture":"https://i.ibb.co/Csj4wdZ/Clean-Buzz.png",
+        "projectLink":"https://tourmaline-cuchufli-f1815b.netlify.app/",
+        "clientCode":"https://github.com/kaziFahmid/cleaning-service-client",
+        "serverCode":"https://github.com/kaziFahmid/cleaning-service-server",
+        "features":"Users can pay service rates.Users can book cleaning services. Admin has right to make a user admin."
+
     }
     
 ]

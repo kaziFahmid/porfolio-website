@@ -26,7 +26,7 @@ export default function AboutMe() {
      <div className='container'>
 
      <div className= 'row justify-content-center align-items-center' >
-     <div    className='col-12 col-md-6' >
+     <div   className='col-12 col-md-6' >
       <Lottie  options={defaultOptions}
               
              />
