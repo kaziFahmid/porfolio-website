@@ -67,7 +67,7 @@ const particlesLoaded = useCallback(async container => {
       </Fade>
 
     <div className=' mt-4 d-flex flex-md-row flex-column justify-content-center align-items-center '>
- <Link to='https://drive.google.com/file/d/1m2vmBdI95A_sJUNS-QaycDi4kV-90fhg/view?usp=drive_link'>
+ <Link to='https://drive.google.com/file/d/1m2vmBdI95A_sJUNS-QaycDi4kV-90fhg/view?usp=sharing'>
  <button
   className='rounded-pill border-0 text-white px-4 py-2 me-md-3'
   style={{

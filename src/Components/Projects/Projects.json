@@ -8,35 +8,28 @@
         "features":"Users are allowed to create profile and also user can login.Admin can make users instructor or admin.Instructor can add class and delete his class."
         
 
-    },
-
-    {
-        "projectName":"Fun Toys",
-        "projectPicture":"https://i.ibb.co/vcsx73Q/Fun-Toys-Home.png",
-        "projectLink":"https://toy-project-f359d.web.app/",
-        "clientCode":"https://github.com/kaziFahmid/toy-marketplace",
-        "serverCode":"https://github.com/kaziFahmid/toy-server",
-        "features":"Users are allowed to create profile and also user can login.Users can add toys and also update toys information.Users can search toys by filtering."
-    },
-
-    {
-        "projectName":"Job Nexus",
-        "projectPicture":"https://i.ibb.co/rpBzmsT/Job.png",
-        "projectLink":"https://job-project-fc795.web.app/",
-        "clientCode":"https://github.com/kaziFahmid/Job-finding-platform",
-        "serverCode":"https://github.com/kaziFahmid/job-finding-server",
-        "features":"Users are allowed to create profile and also user can login.Users can apply and post job. Users can search jobs by filtering."
-
-    },
-
-    {
-        "projectName":"CleanBuzz",
-        "projectPicture":"https://i.ibb.co/Csj4wdZ/Clean-Buzz.png",
-        "projectLink":"https://tourmaline-cuchufli-f1815b.netlify.app/",
-        "clientCode":"https://github.com/kaziFahmid/cleaning-service-client",
-        "serverCode":"https://github.com/kaziFahmid/cleaning-service-server",
-        "features":"Users can pay service rates.Users can book cleaning services. Admin has right to make a user admin."
-
     }
+,
+{
+    "projectName":"House Hunting",
+    "projectPicture":"https://i.ibb.co/TLsKdCw/Vite-React-1.png",
+    "projectLink":"https://dashing-paletas-ab8a82.netlify.app/",
+    "clientCode":"https://github.com/kaziFahmid/house-rent-client",
+    "serverCode":"https://github.com/kaziFahmid/house-rent-server",
+    "features":"Users are allowed to create profile and also user can login.House renter can book a house and house owner can add house.Custom authentication added by JWT."
+    
+
+},
+{
+    "projectName":"Car Hunting",
+    "projectPicture":"https://i.ibb.co/CHN6MKt/Car-Hunting-Home.png",
+    "projectLink":"https://super-sunburst-587345.netlify.app/",
+    "clientCode":"https://github.com/kaziFahmid/car-rent-client",
+    "serverCode":"https://github.com/kaziFahmid/car-rent-server",
+    "features":"Car renter can rent a car and pay by stripe payment method.Car owner can add car.Users are allowed to create  profile and also users can login."
+    
+
+}
+  
     
 ]
