@@ -1,8 +1,8 @@
 [
     {
         "projectName":"SummerCamp",
-        "projectPicture":"https://i.ibb.co/Pm9cZQC/Vite-React.png",
-        "projectLink":"https://summer-camp-335b6.web.app/",
+        "projectPicture":"https://i.ibb.co/GWcqDFQ/Summer-Camp.png",
+        "projectLink":"https://summer-camp-335b6.firebaseapp.com/",
         "clientCode":"https://github.com/kaziFahmid/summer-camp-client",
         "serverCode":"https://github.com/kaziFahmid/summer-camp-server",
         "features":"Users are allowed to create profile and also user can login.Admin can make users instructor or admin.Instructor can add class and delete his class."
@@ -22,7 +22,7 @@
 },
 {
     "projectName":"Car Hunting",
-    "projectPicture":"https://i.ibb.co/CHN6MKt/Car-Hunting-Home.png",
+    "projectPicture":"https://i.ibb.co/dJwswDR/Car-Hunting-Home.png",
     "projectLink":"https://super-sunburst-587345.netlify.app/",
     "clientCode":"https://github.com/kaziFahmid/car-rent-client",
     "serverCode":"https://github.com/kaziFahmid/car-rent-server",
