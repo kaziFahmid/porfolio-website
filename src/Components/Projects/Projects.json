@@ -2,7 +2,7 @@
     {
         "projectName":"SummerCamp",
         "projectPicture":"https://i.ibb.co/GWcqDFQ/Summer-Camp.png",
-        "projectLink":"https://summer-camp-335b6.firebaseapp.com/",
+        "projectLink":"https://astounding-kelpie-b19564.netlify.app/",
         "clientCode":"https://github.com/kaziFahmid/summer-camp-client",
         "serverCode":"https://github.com/kaziFahmid/summer-camp-server",
         "features":"Users are allowed to create profile and also user can login.Admin can make users instructor or admin.Instructor can add class and delete his class."
@@ -12,7 +12,7 @@
 ,
 {
     "projectName":"House Hunting",
-    "projectPicture":"https://i.ibb.co/TLsKdCw/Vite-React-1.png",
+    "projectPicture":"https://i.ibb.co/s9s7Rq4/Vite-React-2.png",
     "projectLink":"https://dashing-paletas-ab8a82.netlify.app/",
     "clientCode":"https://github.com/kaziFahmid/house-rent-client",
     "serverCode":"https://github.com/kaziFahmid/house-rent-server",
