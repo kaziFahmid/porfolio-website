@@ -2,7 +2,7 @@
     {
         "projectName":"SummerCamp",
         "projectPicture":"https://i.ibb.co/HnPZ7yj/Summer-Camp-1.png",
-        "projectLink":"https://sensational-bombolone-c72b82.netlify.app/",
+        "projectLink":"https://task-project-84e1e.web.app/",
         "clientCode":"https://github.com/kaziFahmid/summer-camp-client",
         "serverCode":"https://github.com/kaziFahmid/summer-camp-server",
         "features":"Users are allowed to create profile and also user can login.Admin can make users instructor or admin.Instructor can add class and delete his class."
