@@ -23,7 +23,7 @@
 {
     "projectName":"Car Hunting",
     "projectPicture":"https://i.ibb.co/HXv8BNj/Car-Hunting-Home-1.png",
-    "projectLink":" https://super-sunburst-587345.netlify.app/",
+    "projectLink":"https://super-sunburst-587345.netlify.app/",
     "clientCode":"https://github.com/kaziFahmid/car-rent-client",
     "serverCode":"https://github.com/kaziFahmid/car-rent-server",
     "features":"Car renter can rent a car and pay by stripe payment method.Car owner can add car.Users are allowed to create  profile and also users can login."
