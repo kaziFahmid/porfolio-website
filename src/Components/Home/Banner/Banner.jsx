@@ -26,7 +26,7 @@ const particlesLoaded = useCallback(async container => {
   return (
     <div className='bg-dark text-center ' style={{padding:"90px 0px"}} data-aos="zoom-in-down">
         
-        <img src="https://i.ibb.co/Fmjjy8Q/IMG-20200923-183203.jpg" className="rounded-circle mt-5 " style={{width: "150px" , height:'150px',objectFit:"cover" }}
+        <img src="https://i.ibb.co/0CFy0yZ/unnamed.jpg" className="rounded-circle mt-5 " style={{width: "150px" , height:'150px',objectFit:"cover" }}
   alt="Avatar" />
 
   <div>
