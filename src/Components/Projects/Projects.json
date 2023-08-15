@@ -29,6 +29,22 @@
     "features":"Car renter can rent a car and pay by stripe payment method.Car owner can add car.Users are allowed to create  profile and also users can login."
     
 
+},
+
+
+
+
+
+
+{
+    "projectName":"EshopZone",
+    "projectPicture":"https://i.ibb.co/RTg6K97/Screenshot-2023-08-15-224833.png",
+    "projectLink":"https://eshopzone-a502f.web.app/",
+    "clientCode":"https://github.com/kaziFahmid/eshopzone-client",
+    "serverCode":"https://github.com/kaziFahmid/eshopzone-server",
+    "features":"Designed and implemented an intuitive product listing interface allowing users to browse and search for products effortlessly.Created a dynamic shopping cart feature enabling users to add and remove items with real-time price and quantity adjustments."
+    
+
 }
   
     

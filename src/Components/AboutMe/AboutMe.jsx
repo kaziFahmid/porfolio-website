@@ -38,7 +38,12 @@ export default function AboutMe() {
             WebkitTextFillColor: 'transparent',
           }} >About Me</h1>
         <p>
-        I am a self-motivated and passionate web developer with a strong interest in front-end development and the MERN stack. With a solid foundation in HTML, CSS, and JavaScript, I specialize in creating responsive and user-friendly web applications.</p>
+
+My name is Kazi Fahmid Islam, and I am a self-motivated and passionate web developer. My primary focus is on front-end development and utilizing the MERN stack. I have built a strong foundation in HTML, CSS, and JavaScript, which allows me to create responsive and user-friendly web applications.
+
+Currently, I am pursuing a B.A. in Pass Course at National University, enhancing my academic background while continuing to expand my skills and knowledge in the field of web development.
+
+I am dedicated to crafting engaging and visually appealing user interfaces, and I am enthusiastic about staying up-to-date with the latest industry trends and technologies. My goal is to contribute to creating seamless and impactful web experiences that leave a positive impression on users.</p>
 
        
 

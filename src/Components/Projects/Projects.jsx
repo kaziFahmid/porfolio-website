@@ -53,16 +53,16 @@ export default function Projects() {
         >
           My Projects
         </h1>
-        <div className="row mt-5">
+        <div className="row mt-5 ">
           {projects.map((project, index) => (
-            <div className="col-md-4 mt-3" key={index}>
+            <div className="col-lg-4 col-12 col-md-6 mt-4  " key={index}>
               <motion.div
             data-aos="fade-down"
                 variants={container}
                 initial="hidden"
                 animate="visible"
-                className="card text-white container"
-                style={{ backgroundColor: '#1C1C22' }}
+                className="card text-white container h-100  "
+                style={{width:"20rem", backgroundColor: '#1C1C22' }}
               >
                 <img
                   src={project.projectPicture}
@@ -72,8 +72,8 @@ export default function Projects() {
                 />
                 <div className="card-body">
                   <h5 className="card-title fw-bold">{project.projectName}</h5>
-                  <p>{project.features}</p>
-                  <div className="mt-4">
+                  <p className='text-start'>{project.features}</p>
+                  <div className="mt-4  ">
                     <motion.button
                       className="btn btn-light rounded-circle item"
                       variants={item}
