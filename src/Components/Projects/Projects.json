@@ -2,7 +2,7 @@
     {
         "projectName":"SummerCamp",
         "projectPicture":"https://i.ibb.co/gF7Xs1W/1691230035021.jpg",
-        "projectLink":"https://task-project-84e1e.web.app/",
+        "projectLink":"https://summer-camp-project-9cfec.web.app/",
         "clientCode":"https://github.com/kaziFahmid/summer-camp-client",
         "serverCode":"https://github.com/kaziFahmid/summer-camp-server",
         "features":"Users are allowed to create profile and also user can login.Admin can make users instructor or admin.Instructor can add class and delete his class."
@@ -23,7 +23,7 @@
 {
     "projectName":"Car Hunting",
     "projectPicture":"https://i.ibb.co/T1sYVZH/1691403029398.jpg",
-    "projectLink":"https://car-hunter-b25e4.web.app/",
+    "projectLink":"https://car-rental-d5eca.web.app/",
     "clientCode":"https://github.com/kaziFahmid/car-rent-client",
     "serverCode":"https://github.com/kaziFahmid/car-rent-server",
     "features":"Car renter can rent a car and pay by stripe payment method.Car owner can add car.Users are allowed to create  profile and also users can login."
