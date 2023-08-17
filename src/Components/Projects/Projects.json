@@ -2,7 +2,7 @@
     {
         "projectName":"SummerCamp",
         "projectPicture":"https://i.ibb.co/gF7Xs1W/1691230035021.jpg",
-        "projectLink":"https://summercamp-project.web.app/",
+        "projectLink":"https://summercourse-project.web.app/",
         "clientCode":"https://github.com/kaziFahmid/summer-camp-client",
         "serverCode":"https://github.com/kaziFahmid/summer-camp-server",
         "features":"Users are allowed to create profile and also user can login.Admin can make users instructor or admin.Instructor can add class and delete his class."
