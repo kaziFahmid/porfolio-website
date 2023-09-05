@@ -1,12 +1,13 @@
 [
     {
-        "projectName":"SummerCamp",
-        "projectPicture":"https://i.ibb.co/nPM4X2c/Screenshot-2023-08-18-140911.png",
-        "projectLink":"https://summer-camp-project-a43a5.web.app/",
-        "clientCode":"https://github.com/kaziFahmid/summer-camp-client",
-        "serverCode":"https://github.com/kaziFahmid/summer-camp-server",
-        "features":"Users are allowed to create profile and also user can login.Admin can make users instructor or admin.Instructor can add class and delete his class."
-        
+        "projectName":"GameFusion",
+        "projectPicture":"https://i.ibb.co/txW4yKN/Screenshot-2023-09-05-205200.png",
+        "projectLink":"https://game-fusion.web.app/",
+        "clientCode":"https://github.com/kaziFahmid/game-marketplace-client",
+        "serverCode":"https://github.com/kaziFahmid/game-marketplace-server",
+        "features":"Integrated Stripe gateway for seamless, secure online payments, improving user experience.Admin has the authority to assign or revoke admin roles for users.Users can purchase games and remove them from their cart as needed."
+     
+   
 
     }
 ,
